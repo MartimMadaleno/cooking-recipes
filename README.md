@@ -1,3 +1,36 @@
+# React Cooking Recipes App
+
+A react app to create and store recipes.
+
+## Installation
+
+```bash
+git clone https://github.com/MartimMadaleno/cooking-recipes.git
+```
+OR
+```bash
+git clone git@github.com:MartimMadaleno/cooking-recipes.git
+```
+
+## Usage
+
+To start the app.
+
+```bash
+npm run start
+```
+
+To build the app.
+
+```bash
+npm run build
+```
+To run tests on the app.
+
+```bash
+npm run test
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
