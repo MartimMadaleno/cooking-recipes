@@ -14,18 +14,18 @@ git clone git@github.com:MartimMadaleno/cooking-recipes.git
 
 ## Usage
 
-To start the app.
+To start the app
 
 ```bash
 npm run start
 ```
 
-To build the app.
+To build the app
 
 ```bash
 npm run build
 ```
-To run tests on the app.
+To run tests on the app
 
 ```bash
 npm run test
